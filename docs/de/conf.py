@@ -3,4 +3,4 @@ latex_documents = [
      'Casper', 'manual'),
 ]
 
-language = "German"
+language = 'de'
